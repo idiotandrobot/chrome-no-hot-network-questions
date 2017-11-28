@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "No Hot Network Questions",
-    "version": "0.5",
+    "version": "0.6",
     "content_scripts": [{
         "matches": ["*://meta.stackexchange.com/*", "*://stackoverflow.com/*"],
         "css": ["style.css"]
