@@ -1,3 +1,7 @@
-.everyonelovesstackoverflow { display: none; }
-#hot-network-questions { display: none; }
-.module.community-bulletin { display: none; }
+#sidebar { visibility: hidden}
+.aside-cta { visibility: visible; }
+#interesting-tags  { visibility: visible; }
+.module.question-stats { visibility: visible; }
+.module.community-bulletin { display: none; } 
+.module.sidebar-linked { visibility: visible; }
+.module.sidebar-related { visibility: visible; }
